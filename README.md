@@ -90,7 +90,7 @@ torque-prediction/
 - **Test Subjects**: Multiple subjects performing controlled bicep curls
 - **Exercise Protocol**: 11 sets of 10 bicep curls with varying weights (0kg, 2kg, 3kg, 5.5kg)
 - **Electrode Placement**: Strategic positioning over biceps and triceps muscle groups
-- **IMU Configuration**: Dual IMU setup with identical orientation for joint angle calculation
+- **IMU Configuration**: Multiple Sensor Acquisition with Dual IMU setup with identical orientation for joint angle calculation
 - **Rest Intervals**: Adequate rest between sets to prevent muscle fatigue
 - **Hardware Budget**: ₹11,700 (Raspberry Pi development kit)
 
